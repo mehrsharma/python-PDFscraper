@@ -3,7 +3,7 @@ Returns plaintext from a PDF file. I used this to scrape my resume to simulate a
 
 **Run the Following Commands in Terminal:**
 
-```pip3 install PyPDF``` to install required module
+```pip3 install PyPDF2``` to install required module
 
 ```python3 pdfScraper.py``` to run program
 
